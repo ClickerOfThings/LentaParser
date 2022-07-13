@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LentaParser", "LentaParser.csproj", "{20377072-D0BF-449F-A72E-1B684CDF5C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20377072-D0BF-449F-A72E-1B684CDF5C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20377072-D0BF-449F-A72E-1B684CDF5C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20377072-D0BF-449F-A72E-1B684CDF5C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20377072-D0BF-449F-A72E-1B684CDF5C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D21B0256-FEF4-4073-B5B2-51944C24444E}
+	EndGlobalSection
+EndGlobal
